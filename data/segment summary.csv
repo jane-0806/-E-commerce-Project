@@ -1,0 +1,9 @@
+segment,customer_count,total_monetary,average_monetary,average_frequency,average_recency_days
+Champions,454,4341987.87,9563.85,16.31,7.70
+"Potential loyalists",991,2197029.99,2216.98,5.47,22.69
+Other,1083,1113646.56,1028.30,2.64,84.76
+Hibernating,942,451476.83,479.27,1.24,254.21
+"Recent repeat buyers",369,407124.81,1103.32,2.00,22.69
+"At-risk repeat buyers",127,206197.67,1623.60,3.68,204.24
+"Recent one-time buyers",362,125619.92,347.02,1.00,27.58
+"Lapsed high-spending frequent buyers",10,44125.24,4412.52,11.60,216.10
