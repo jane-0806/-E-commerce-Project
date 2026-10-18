@@ -58,7 +58,42 @@ Customers were assigned to the first matching rule below:
 These segments use project-defined rules to describe past purchasing
 behaviour; they do not predict future loyalty or churn.
  
- 
+## Power BI Dashboard
+
+### Sales Overview
+Shows sales KPIs, monthly revenue, country revenue and the Top 10
+StockCodes, with a Country slicer.
 
 
-## 
+### Customer Overview
+Shows customer counts and revenue by RFM segment, and the Top 10
+customers by completed-sales revenue, with segment and Country slicers.
+
+
+## Key Findings
+
+- The UK generated approximately 84.6% of total completed-sales revenue.
+- Completed-sales revenue increased from approximately £1.06 million
+  in September 2011 to £1.50 million in November 2011.
+- The top 10% of identified customers generated approximately 61.45%
+  of completed-sales revenue from identified customers.
+- Champions represented approximately 10.5% of segmented customers
+  and generated 48.9% of segmented completed-sales revenue.
+- Overall cancellation invoice share was 16.12%.
+
+## Overall
+### Recommendations 
+- Prioritise the UK, which generated approximately 84.6% of completed-sales revenue. Asses selected established overseas markets for further investment by reviewing revenue, demand and cancellation records.
+- Review demand and cancellation records before increasing investment in low-volume markets. Assess profitability and fulfilment costs before deciding to stop serving a market.
+- Prioritise retention of high-spending customers and Champions. Monitor changes in their purchasing activity and investigate ways to encourage repeat purchasing among Potential loyalists.
+- Use the observed September–November sales increase to inform stock and staffing reviews, while checking whether the pattern continues in other years.
+
+### Limitations
+
+- Transactions without customer IDs were included in overall sales analysis but excluded from RFM segmentation and customer revenue concentration analysis.
+- Revenue measures completed sales, not profit. Product costs, marketing costs and fulfilment costs were unavailable.
+- Cancellation invoice share measures cancellation invoices as a proportion of completed and cancellation invoices. It does not show the percentage of original orders that were cancelled.
+- High cancellation shares in countries with very few invoices should be interpreted cautiously.
+- RFM segments describe historical purchasing behaviour. They do not prove future loyalty or predict customer churn.
+- December 2011 contains only part of the month, so it should not be compared directly with complete months.
+- The available period is insufficient to establish a recurring annual seasonal pattern.
